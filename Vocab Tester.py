@@ -1,5 +1,4 @@
-import random
-
+from random import *
 def checkforword():
     checkWord = False	  #Change to true if checking word
     if checkWord == True: #checking words
@@ -135,7 +134,7 @@ def vocab():
     
     while True:
         if number > 0:
-            tom = random.choice(name)
+            tom = choice(name)
             print(tom)
             number -= 1
             words += 1
@@ -169,10 +168,10 @@ def activate():
 # activate() # Comment this if you want automatic 
 
 def automaticpopup():
-    noofwords = random.choice((1,2,3,4,5,6,7,8,9,10))
+    noofwords = choice((1,2,3,4,5,6,7,8,9,10))
     while True:
         if noofwords > 0:
-            foreignword = random.choice(name)
+            foreignword = choice(name)
             print(foreignword)
             noofwords -= 1
         else:
