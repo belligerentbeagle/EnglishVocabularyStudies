@@ -4,14 +4,14 @@ Worsen -- proliferate/exacerbate/bedevilled
 weaken -- enervate/douse/sap/adulterate/hamstring/assuage
 objection -- demurral
 Important -- pivotal/integral/crucial/critical/essential/salient/sacrosanct
-Big -- astronomical/voluminous/mammoth/colossal
-Alot of -- colossal/astronomical/exorbitant/mammoth/stratospheric/punitive(taxes etc)
+Big -- astronomical/voluminous/mammoth/colossal/incalculable
+A lot of -- colossal/astronomical/exorbitant/mammoth/stratospheric/punitive(taxes etc)
 Short(time) -- transient
 Long(time) -- protracted
 Disgusted -- grotesque
-Carefully -- gingerly
+Carefully -- gingerly/perilous(v dangerous)
 Comparable -- analogous to
-Sad --
+Sad -- 
 Strict -- draconian/austere
 Happy -- delight
 Excited -- delirious
@@ -26,7 +26,7 @@ Resulting -- engenders/entails/precipitates
 Beginning -- outset
 Fail -- his results are always flatlined
 Accidentally -- inadvertently/unwittingly
-Continuously -- unremmittingly/incessant/perpetuate
+Continuously -- unremittingly/incessant/perpetuate
 Unforgettable -- indelible
 Deserving -- laudable
 Hatable -- abominable/culpable
@@ -35,7 +35,7 @@ Very High -- stratospheric/punitive(taxes etc)
 Disadvantages -- ramifications
 Excellent sth -- stellar
 Common -- ubiquitous/prevalent/omnipresent
-elongating -- undeniably/inextricably/incontrovertibly/undoubtedly/unquestionably/inexorably==unpreventable/perversely
+elongating -- undeniably/inextricably/incontrovertibly/undoubtedly/unquestionably/inexorably -- unpreventable/perversely
 clear -- unequivocal/unambiguous
 Opposite -- On the other hand/ on the flip side of the coin/ adversely/ in contrast/ counter-intuitively/ in converse
 Irregardless -- irrespective

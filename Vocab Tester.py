@@ -1,4 +1,5 @@
-from random import *
+import random
+
 def checkforword():
     checkWord = False	  #Change to true if checking word
     if checkWord == True: #checking words
@@ -56,6 +57,7 @@ setL = ["sacrosanct", "foppish", "cathartic", "milieu", "genial", "in the throes
 setM = ["revamp","drudgery","succession","overhaul","bolting","vernacular","periodically","forthcoming","inpart", "pro bono","demography","yogic","accrue","caricature","anarchic","adulterate","arboreal","plod ahead/through/on","abate","impediment","steel","bard","run of the mill","be in a rut","pilot-programmes","siphon off","afoot","oligarch","proverbially","replete with","folly","zealot","pandered","rabble-rousing",
         "populous","presided over","dud","illict","glitzy","perversely","quagmire","propitious","upperhouse","sap","chauvinist","hamstring"]
 setN = ["preaching the virtues of","edgeways","bedivilling","inroads","decry","intricate","ordain","prudent","zoonotic","pertain","avian","gain a foothold","drawn on","veracity","envisage","blundering","concerted","morbidity","profanity","brain drain","prudish","emancipation","constrictions","ensue","onerous"]
+setO = ["fall away", "incalculable","social mores","vex","gateway to/ for something","kiki, do you love me", "en masse","bureaucrats","wallah","ploy","exodus","construe","moped","bigot","wahhabism","apprehension","perilous","contempt","callous","unorthodox","persona-non-grata"]
 
 hard = [" "]
 name.extend(hard)
@@ -73,6 +75,7 @@ name.extend(setK)
 name.extend(setL)
 name.extend(setM)
 name.extend(setN)
+name.extend(setO)
 
 def printsets(target): #Used in printsetsornot function, to simplify when adding a new set
     print(" ")
@@ -116,6 +119,8 @@ def printsetsornot(target):
             printsets(setM)
         elif target == ("setN"):
             printsets(setN)
+        elif target == ("setO"):
+            printsets(setO)
         else:
             vocab()
         activate()
@@ -134,7 +139,7 @@ def vocab():
     
     while True:
         if number > 0:
-            tom = choice(name)
+            tom = random.choice(name)
             print(tom)
             number -= 1
             words += 1
@@ -150,6 +155,8 @@ def vocab():
                 print("not bad!")
             enterhardwords()
             break
+
+
 def enterhardwords():
     print(" ")
     toughwords = input(str("Hard words(enter space when complete): "))
@@ -165,13 +172,13 @@ def activate():
             wordcount()
             printsetsornot(data)
             vocab()
-# activate() # Comment this if you want automatic 
+#activate() # Comment this if you want automatic 
 
 def automaticpopup():
-    noofwords = choice((1,2,3,4,5,6,7,8,9,10))
+    noofwords = random.choice((1,2,3,4,5,6,7,8,9,10))
     while True:
         if noofwords > 0:
-            foreignword = choice(name)
+            foreignword = random.choice(name)
             print(foreignword)
             noofwords -= 1
         else:
