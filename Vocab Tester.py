@@ -59,6 +59,7 @@ setM = ["revamp","drudgery","succession","overhaul","bolting","vernacular","peri
 setN = ["preaching the virtues of","edgeways","bedivilling","inroads","decry","intricate","ordain","prudent","zoonotic","pertain","avian","gain a foothold","drawn on","veracity","envisage","blundering","concerted","morbidity","profanity","brain drain","prudish","emancipation","constrictions","ensue","onerous"]
 setO = ["fall away", "incalculable","social mores","vex","gateway to/ for something","kiki, do you love me", "en masse","bureaucrats","wallah","ploy","exodus","construe","moped","bigot","wahhabism","apprehension","perilous","contempt","callous","unorthodox","persona-non-grata"]
 setP = ["anachronistic","squalid","dinghy","wanton","virulently","fervour","precarious","parable","reproachfully","precocious","sultry","aficionado","faddish","trawling","arcana","unnerve","bestride","neophyte","caveat","erudite","curator","corroborate","sacrosanct","monoliths","precarious","fervour","ascetic","inoculation","resignedly","morbidity rate"] #19th August
+setQ = ["promulgate","arbitrate", "impetus","disrepute","secular","espuse","indictment","hitherto","apex","subsist","staunchly","syndicate","ignominious"]
 
 hard = [" "]
 name.extend(hard)
@@ -78,6 +79,7 @@ name.extend(setM)
 name.extend(setN)
 name.extend(setO)
 name.extend(setP)
+name.extend(setQ)
 
 def printsets(target): #Used in printsetsornot function, to simplify when adding a new set
     print(" ")
@@ -125,6 +127,7 @@ def printsetsornot(target):
             printsets(setO)
         elif target == ("setP"):
             printsets(setP)
+        elif target == ("setQ"):
         else:
             vocab()
         activate()
