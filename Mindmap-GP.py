@@ -6,6 +6,10 @@ discrimination = {
 					'Disability': ["Mental Disorders: 1, 2, 3", "Physical Incapacitation","Japan hires them to operate robots in the restaurants"]
 					}
 
+technology = {
+	'3D Printing': ["3D Printers has enabled low cost printing which has lowered the costs of prostethics for disabled people dramatically.","Bionics","'We are probably the first species that can influence it's own evolution'"]
+}
+
 # class topiccaller():
 # 		def name(self):
 # 			if topic == "discrimination":
