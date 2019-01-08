@@ -60,6 +60,7 @@ setN = ["preaching the virtues of","edgeways","bedivilling","inroads","decry","i
 setO = ["fall away", "incalculable","social mores","vex","gateway to/ for something","kiki, do you love me", "en masse","bureaucrats","wallah","ploy","exodus","construe","moped","bigot","wahhabism","apprehension","perilous","contempt","callous","unorthodox","persona-non-grata"]
 setP = ["anachronistic","squalid","dinghy","wanton","virulently","fervour","precarious","parable","reproachfully","precocious","sultry","aficionado","faddish","trawling","arcana","unnerve","bestride","neophyte","caveat","erudite","curator","corroborate","sacrosanct","monoliths","precarious","fervour","ascetic","inoculation","resignedly","morbidity rate"] #19th August
 setQ = ["promulgate","arbitrate", "impetus","disrepute","secular","espuse","indictment","hitherto","apex","subsist","staunchly","syndicate","ignominious"]
+setR = ["genuflection","show deference to","ruminate","ignominious","indubitably","incontrovertibly","ironclad","vindicate","intrinsic","inherent","maxim","transphobic","staunch","gender dysphoria","upend","profess","whiff","infidelity","bereft","disquiet","ineffable","contrive","debilitating","extenuating","clarion call","propensity","scant","metastasize","decidely","empanel","disparate","allusive","homoeroticism","paraphernalia","promulgate","arbitrate","impetus","disrepute","secular","espouse","indictment","hitherto","apex","subsist","syndicate","emancipate","afflict","concerted efforts"] #7th Jan 2019
 
 hard = [" "]
 name.extend(hard)
