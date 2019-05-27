@@ -81,6 +81,7 @@ name.extend(setN)
 name.extend(setO)
 name.extend(setP)
 name.extend(setQ)
+name.extend(setR)
 
 def printsets(target): #Used in printsetsornot function, to simplify when adding a new set
     print(" ")
@@ -129,6 +130,9 @@ def printsetsornot(target):
         elif target == ("setP"):
             printsets(setP)
         elif target == ("setQ"):
+            printsets(setQ)
+        elif target == ("setR"):
+            printsets(setR)
         else:
             vocab()
         activate()
