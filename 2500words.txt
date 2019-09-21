@@ -226,8 +226,7 @@ belligerent
 toll
 outpace
 stark
-
-            oncologist
+oncologist
 geriatric care
 cartel
 postulate
@@ -939,5 +938,4 @@ Fiasco
 Diametrically
 Foolhardy
 Renege
-
-
+Crude
