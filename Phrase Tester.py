@@ -1,9 +1,13 @@
 however = ["In retrospect","inhindsight","In converse","Regrettably","On the other hand","On the flip side of the coin","In reverse","Howbeit","Counter-intuitively"]
 furthermore = ["To add insult to injury","To add fuel to fire","aggreviate","proliferate"]
 linking = ["hitherto","intrinsically","inherently", "decidedly","indubitably","incontrovertible"]
-goodphrases = ["carrot-and-stick","Gain traction","Ethos of hardwork","Enter into the fray","tinkering around the edges","austerity measures","strata of society","double edged sword","a case in point","medical realm","concerns are misplaced","frets about a future","key underlying driver","In the nick of time","existential threat",         
-                "Whiling away a few hours","Give an upper hand","Tantamount to","In pursuant to","Blow the cobwebs out of one's brain","Grown accustomed to",
-               "distant pipe dream", "a gale of laughter","blow hot and cold","brimming with energy","replete with sadness","untetheringthemselvesfromthe constrictions of genderroles","draw on my skills to do sth", "with investment foresight","prior to .....", "preaching the virtues of ____ ","a succession of problems","lends itself well to ____ ","could reach no conclusions as to its impact","take a hard line", "once ____ abates","for a fraction of _____", "covered by an umbrella of misconceptions","humble circumstances","concerted efforts","nothing short of ________"]
+goodphrases = ["carrot-and-stick","Gain traction","Ethos of hardwork","Enter into the fray","tinkering around the edges",
+    "austerity measures","strata of society","double edged sword","a case in point","medical realm","concerns are misplaced","frets about a future",
+    "key underlying driver","In the nick of time","existential threat","Whiling away a few hours","Give an upper hand","Tantamount to","In pursuant to",
+    "Blow the cobwebs out of one's brain","Grown accustomed to","distant pipe dream", "a gale of laughter","blow hot and cold","brimming with energy",
+    "replete with sadness","untetheringthemselvesfromthe constrictions of genderroles","draw on my skills to do sth", "with investment foresight","prior to .....", 
+    "preaching the virtues of ____ ","a succession of problems","lends itself well to ____ ","could reach no conclusions as to its impact","take a hard line", 
+    "once ____ abates","for a fraction of _____", "covered by an umbrella of misconceptions","humble circumstances","concerted efforts","nothing short of ________"]
 conclusion = ["To ram the point home","In a nutshell"]
 latin = ["vis-a-vis","raison detre","primma donna","esprit de corps","creme de la creme","prima facie"]
 quotes = ["'Education has long been viewed as the primary vehicle by which one can ascent the ladder of opportunity'","'A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty.' --Roosevelt",
