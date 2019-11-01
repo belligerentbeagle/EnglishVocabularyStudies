@@ -539,8 +539,7 @@ irascible: easily irritated/annoyed; prone to losing temper
 niggling: petty
 annnoying
 officious: asserting authority in an overbearing manner
-
-        vexation: frustration/annoyance resulting from some action/statement
+vexation: frustration/annoyance resulting from some action/statement
 social affirmation
 conformity
 trodden
@@ -558,7 +557,6 @@ stoic
 trivial
 composed by/of
 minute
-        
 nebulous
 reel in
 cusp
@@ -570,8 +568,7 @@ trance
 blear
 debauchery
 douse
-
-        primeval
+primeval
 jarr
 assuage
 unencumbered
@@ -652,7 +649,6 @@ folly
 zealot
 pandered
 rabble-rousing
-
         populous
 presided over
 dud
@@ -803,10 +799,6 @@ syndicate
 emancipate
 afflict
 concerted efforts
-<<<<<<< HEAD
-
-
-=======
 unbridled
 unfettered 
 disuse
