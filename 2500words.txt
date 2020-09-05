@@ -106,7 +106,7 @@ fervour
 teeming with
 totem
 emanate
-point-blank          
+point-blank   
 unnerving
 inaugural
 sandblasted
@@ -212,8 +212,7 @@ miniscule vs diminutive
 emanate
 hapless
 rogue
-
-        rendevouz
+ rendevouz
 serenity vs tranquility
 conflagration
 flail
@@ -255,14 +254,12 @@ endeavour
 shrewed
 crafty
 bestial
-
 treacherous
 implicate
 banister
 instinctively
 foiled
-
-        porous
+ porous
 potent
 surreptitious vs clandestine vs collude
 underscore
@@ -318,8 +315,7 @@ gaberdine
 cordovan
 swaggered
 impertinent
-
-        incapcitated
+ incapcitated
 beak
 euthanasia
 rapine
@@ -329,7 +325,7 @@ impotent
 anaemic
 elicit
 taut
-            
+     
 wispy
 ringlets
 wade
@@ -341,16 +337,14 @@ cirrus
 cumulus
 meringues
 sleek
-
-            distended
+     distended
 prominent
 champing
 intricate
 variegated
 devoid
 outlandish
-
-            belching
+     belching
 deep pockets
 haggle over
 solitude
@@ -364,9 +358,7 @@ pilgrimage
 roughshod
 contemporary
 eloquence
-
-            archaic
-
+     archaic
 coddled and cossetted
 mogul
 reprieve
@@ -397,20 +389,17 @@ traverse
 belligerent
 garret
 studious
-
-        endow
+ endow
 technocrat
 conspicuous
 incur the wrath of
 lolly
-
-        punting
+ punting
 in lieu of
 largesse
 plutocracy
 coerce
-
-        chivalrous
+ chivalrous
 bawl out
 deluge
 succumb
@@ -419,14 +408,12 @@ proffer
 construe
 exhort
 iniquities
-
 compel
 prevalent
 opine
 toil
 guzzles
 voluminous
-
 versatile
 tout
 panacea
@@ -435,8 +422,7 @@ palpable
 guise
 existential
 academia
-
-        entity
+ entity
 fret
 paranoia
 advocate
@@ -444,7 +430,6 @@ cite
 potemkin
 pedagogy
 nonplussed
-
 permeate
 fallacy
 per se
@@ -460,7 +445,7 @@ elitist
 in tandem
 resonance
 impoverish
-        
+ 
 tenor
 stasis
 unwitting
@@ -481,8 +466,7 @@ guffaw
 slither
 stasis
 indelible
-
-        riven
+ riven
 flatline
 incessant
 punitive
@@ -526,14 +510,12 @@ rejoinder: clever witty reply
  witty response
  countervail: to use equal force again
 reciprocate: to give/act in turn following the lead of another
-
-        refute: to produce evidence or proof that an arg is wrong
+ refute: to produce evidence or proof that an arg is wrong
  retort: to reply in a sharp
  retaliatory way
 inquisitive: Having the nature of an investigator
 frenetic: frantic and frenzied
-
-        angst: a feeling of anxiety
+ angst: a feeling of anxiety
  dread or anguish
 irascible: easily irritated/annoyed; prone to losing temper
 niggling: petty
@@ -649,7 +631,7 @@ folly
 zealot
 pandered
 rabble-rousing
-        populous
+ populous
 presided over
 dud
 illict
