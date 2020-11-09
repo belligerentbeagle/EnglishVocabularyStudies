@@ -584,19 +584,19 @@ masquerade
 presenteeism
 scaffold
 sacrosanct
- foppish
- cathartic
- milieu
- genial
- in the throes
- sheepish
- gale
- acclimatised to
- inkling
- yesteryear
- intrinsically
- indomitable
- at the forefront
+foppish
+cathartic
+milieu
+genial
+in the throes
+sheepish
+gale
+acclimatised to
+inkling
+yesteryear
+intrinsically
+indomitable
+at the forefront
 revamp
 drudgery
 succession
@@ -912,6 +912,76 @@ Fiasco
 Diametrically
 Foolhardy
 Renege
-Crude
 Paragon of sth
+Fraternity
+Incommensurable
+Transpire
+Circumscribed
+Unabating
+Inept
+Promptitude
+Lackadaisical
+Writing on the wall
+Henceforth (from now on)
+Encroach
+Logitudinal data 
+Recalcitrance
+Honour bound
+Work like a horse
+Flog a dead horse
+On the house
+Household word
+House of cards
+gravitas
+Equanimity
+Prognosis
+Faction
+supplant
+apartheid
+splintering
+hedge one's bets 
+dearth
+abjure
+kith & kin
+Prerogative
+heretical
+enjoin
+bourgeoisie
+portend
+deluge
+weather
+wrought 
+fairway
+covet
+relinquish 
+potent 
+pay heed 
+insular 
+blight
+anthropomorphism
+visceral
+cornucopia
+dovetail
+infirm
+emasculate
+enmity 
+estuary
+ponderous
+offing
+perfunctory
+mutiny
+exile 
+fanatics
+beget 
+insurgency 
+afflict 
+gin up 
+underwriter 
+languish 
+incontinent 
+haten 
+illusory 
+bromide 
+trot sb out 
+
 
